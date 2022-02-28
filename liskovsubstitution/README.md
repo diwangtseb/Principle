@@ -1,0 +1,1 @@
+### The formula substitution principle is the implementation basis of the open and closed principle, which tells us to use the base class to define and reference objects as far as possible when designing programs, and then determine the specific subtypes corresponding to the base class at runtime
